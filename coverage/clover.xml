@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1582741562701" clover="3.2.0">
-  <project timestamp="1582741562702" name="All files">
+<coverage generated="1582743346777" clover="3.2.0">
+  <project timestamp="1582743346777" name="All files">
     <metrics statements="47" coveredstatements="22" conditionals="30" coveredconditionals="10" methods="4" coveredmethods="3" elements="81" coveredelements="35" complexity="0" loc="47" ncloc="47" packages="2" files="3" classes="3"/>
     <package name="atimjs">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
